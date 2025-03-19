@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hola, soy ManuelNZ20👋 </h1>
 </div>
-<img src="https://yt3.googleusercontent.com/MlSn-SGSryKEWUwX1DqPwqjAVrr3bPcqT2dl1k4wCAsw20Y38ClTCWCSvO3nXTDNi4ozNtDTexA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
+<img src="https://yt3.googleusercontent.com/T-dmEQOF8ok27Buxitsvidfhlv4K7PgrCI8a_eDuyhKWVZqvo4imI65BIx3KgkRfxeC_x6x3FEM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
 <hr/>
 
 ## Sobre Mí
@@ -9,7 +9,7 @@
 
 ## Habilidades Técnicas
 # Lenguajes de programación
-- <img src="https://dart.dev/assets/img/U_EV6NzwXm-443.svg" width="50" hweight="10"/>
+- <img src="https://static-00.iconduck.com/assets.00/dart-icon-511x512-jhyea1ft.png" width="20" hweight="10"/> Dart
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20" hweight="10"/> JavaScript
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="35" hweight="10"/> HTML & CSS* 
 # Frameworks y Librerías:
