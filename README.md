@@ -6,7 +6,8 @@
 <h3 align="center">Un apasionado desarrollador de software de Piura, Perú🇵🇪</h3>
 
 </div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=manuelnz20.manuelnz20" style="margin-bottom:10px;"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=manuelnz20.manuelnz20"/>
+<br>
 
 <img src="https://res.cloudinary.com/dqpzipc8i/image/upload/v1753717573/banner_logo_1_copy_lntt4j.png"/>
 
