@@ -1,23 +1,22 @@
-
 <div align="center">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF691F&center=true&vCenter=true&width=435&lines=Hola+Devs+%F0%9F%91%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Soy+ManuelNZ20+%F0%9F%91%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF691F&center=true&vCenter=true&width=500&height=100&lines=Hola+Devs+%F0%9F%91%8B;Soy+ManuelNZ20+%F0%9F%91%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
   </h1>
 
 <h3 align="center">Un apasionado desarrollador de software de Piura, Perú🇵🇪</h3>
 
 </div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=manuelnz20.manuelnz20" />
-<!-- <img src="https://yt3.googleusercontent.com/T-dmEQOF8ok27Buxitsvidfhlv4K7PgrCI8a_eDuyhKWVZqvo4imI65BIx3KgkRfxeC_x6x3FEM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/> -->
-<img src="https://res.cloudinary.com/dqpzipc8i/image/upload/v1753680608/banner_logo_1_pg8gwb.png"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=manuelnz20.manuelnz20" style="margin-bottom:10px;"/>
+
+<img src="https://res.cloudinary.com/dqpzipc8i/image/upload/v1753717573/banner_logo_1_copy_lntt4j.png"/>
 
 <div align="center">
 
- ### 🔥 **Sobre Mí**
+### 🔥 **Sobre Mí**
 
 🚀 Desarrollador con pasión por crear soluciones innovadoras que combinan lógica y creatividad.  
 💡 Actualmente enfocado en revolucionar interacciones humano-máquina mediante chatbots inteligentes.  
-⚡ Experiencia construyendo aplicaciones móviles y web desde prototipos hasta productos escalables.  
+⚡ Experiencia construyendo aplicaciones móviles y web desde prototipos hasta productos escalables.
 
  </div>
 
