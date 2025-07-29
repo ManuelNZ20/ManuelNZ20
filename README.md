@@ -1,4 +1,3 @@
-
 <h1 align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF691F&center=true&vCenter=true&width=500&height=100&lines=Hola+Devs+%F0%9F%91%8B;Soy+ManuelNZ20+%F0%9F%91%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
@@ -23,46 +22,33 @@
 
 </div>
 
+<div align="center">
 
-<div align="center"> 
-  <a href="mailto:manuel08n@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://www.linkedin.com/in/manuel-walter-navarro-zeta-b3049124a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-  </a>
-  <a href="https://www.instagram.com/navarro_zedev/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-  </a>
-  <a href="https://manuelnz20.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+### 🌐 Conéctate conmigo
+
+[![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](mailto:manuel08n@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tFP8n2ja) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/manuelwalter.navarrozeta.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/navarro_zedev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-walter-navarro-zeta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ManuelWalterN) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AdonisDev08) 
+
 </div>
-
 
 <h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
 
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,php,bootstrap,nodejs,javascript,typescript,tailwind,react,nextjs" />
     <img src="https://skillicons.dev/icons?i=dart,flutter,supabase,firebase,mysql,postgresql,nestjs,mongodb,cpp,java" /><br>
     <img src="https://skillicons.dev/icons?i=github,git,figma,notion,androidstudio,netlify,vercel,heroku" /><br>
 </div>
 
-<hr/>
-
-## Mis Contribuciones 
-
 <!-- Snake Animation -->
 <div align="center">
+
+## Mis Contribuciones 
   
   ![snake gif](https://github.com/ManuelNZ20/ManuelNZ20/blob/output/github-snake-dark.svg)
 
 </div>
 
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-manuelnz20.vercel.app/?user=manuelnz20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
