@@ -30,7 +30,7 @@
 
 </div>
 
-<h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
+<h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,php,bootstrap,nodejs,javascript,typescript,tailwind,react,nextjs" />
@@ -41,7 +41,7 @@
 <!-- Snake Animation -->
 <div align="center">
 
-## Mis Contribuciones 
+## 👨‍🚀 Mis Contribuciones 
   
   ![snake gif](https://github.com/ManuelNZ20/ManuelNZ20/blob/output/github-snake-dark.svg)
 
@@ -51,6 +51,9 @@
 
 <br>
 <div align=center>
+
+  [![ManueNZ20 GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelnz20)](https://github.com/manuelnz20/github-readme-stats)
+  
   <img width=390 src="https://github-readme-streak-stats-manuelnz20.vercel.app/?user=manuelnz20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-manuelnz20.vercel.app/api?username=manuelnz20&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
