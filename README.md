@@ -48,7 +48,12 @@
 
 ## Mis Contribuciones 
 
-![snake gif](https://github.com/ManuelNZ20/ManuelNZ20/blob/output/github-contribution-grid-snake.gif)
+<!-- Snake Animation -->
+<div align="center">
+  
+  ![snake gif](https://github.com/ManuelNZ20/ManuelNZ20/blob/output/github-snake-dark.svg)
+
+</div>
 
 <hr/>
 
