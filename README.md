@@ -1,17 +1,15 @@
-<div align="center">
-  <h1 align="center">
+
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF691F&center=true&vCenter=true&width=500&height=100&lines=Hola+Devs+%F0%9F%91%8B;Soy+ManuelNZ20+%F0%9F%91%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-  </h1>
+</h1>
 
 <h3 align="center">Un apasionado desarrollador de software de Piura, Perú🇵🇪</h3>
 
-</div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=manuelnz20.manuelnz20"/>
-<br>
+
+<br/>
 
 <img src="https://res.cloudinary.com/dqpzipc8i/image/upload/v1753717573/banner_logo_1_copy_lntt4j.png"/>
-
-<div align="center">
 
 ### 🔥 **Sobre Mí**
 
@@ -19,7 +17,6 @@
 💡 Actualmente enfocado en revolucionar interacciones humano-máquina mediante chatbots inteligentes.  
 ⚡ Experiencia construyendo aplicaciones móviles y web desde prototipos hasta productos escalables.
 
- </div>
 
 <div align="center"> 
   <a href="mailto:manuel08n@gmail.com">
@@ -49,13 +46,9 @@
 
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/manuelnz20/manuelnz20/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## Mis Contribuciones 
+
+![snake gif](https://github.com/ManuelNZ20/ManuelNZ20/blob/output/github-contribution-grid-snake.gif)
 
 <hr/>
 
@@ -69,18 +62,3 @@
 </div>
 
 <br/><br/>
-
-<!--
-**ManuelNZ20/ManuelNZ20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
